@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9591bc9-66f6-4217-a75d-29de8b267bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 4/src/CountByAnything.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 4/src/CountByThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="561">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practical 4/src/CountByThree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practical 4/src/CountByAnything.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -48,6 +67,7 @@
         <option value="$PROJECT_DIR$/Practical 6/src/RaceHorse.java" />
         <option value="$PROJECT_DIR$/Practical 6/src/Horse.java" />
         <option value="$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java" />
+        <option value="$PROJECT_DIR$/Practical 4/src/CountByThree.java" />
       </list>
     </option>
   </component>
@@ -195,7 +215,7 @@
       <workItem from="1556097387015" duration="1947000" />
       <workItem from="1556279941841" duration="43000" />
       <workItem from="1556280042935" duration="323000" />
-      <workItem from="1556523981755" duration="2735000" />
+      <workItem from="1556523981755" duration="3587000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1554888519392</created>
@@ -239,14 +259,22 @@
       <option name="project" value="LOCAL" />
       <updated>1556099126088</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="prac 4 edited">
+      <created>1556529313910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556529313910</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17304000" />
+    <option name="totallyTimeSpent" value="18156000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -257,7 +285,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,7 +314,8 @@
     <MESSAGE value="create" />
     <MESSAGE value="edited" />
     <MESSAGE value="prac 5 edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="prac 5 edited" />
+    <MESSAGE value="prac 4 edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="prac 4 edited" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Practical 5/src/InputCharacterInfo.java">
@@ -340,8 +369,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="561">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/src/CountByThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/src/CountByAnything.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
