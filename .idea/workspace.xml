@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9591bc9-66f6-4217-a75d-29de8b267bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practical 5/Practical 5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 5/src/InputCharacterInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 6/Practical 6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 6/src/DemoHorse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 6/src/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical 6/src/RaceHorse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,55 +16,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 4/src/EvenOdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 4/src/AscendingAndDescending.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practical 6/src/Horse.java">
+        <entry file="file://$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 6/src/RaceHorse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding>
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 6/src/DemoHorse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -94,8 +45,9 @@
         <option value="$PROJECT_DIR$/Practical 4/src/AscendingAndDescending.java" />
         <option value="$PROJECT_DIR$/Practical 5/src/InputCharacterInfo.java" />
         <option value="$PROJECT_DIR$/Practical 6/src/DemoHorse.java" />
-        <option value="$PROJECT_DIR$/Practical 6/src/Horse.java" />
         <option value="$PROJECT_DIR$/Practical 6/src/RaceHorse.java" />
+        <option value="$PROJECT_DIR$/Practical 6/src/Horse.java" />
+        <option value="$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java" />
       </list>
     </option>
   </component>
@@ -111,6 +63,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,19 +80,35 @@
             <path>
               <item name="CP3404-Practical" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP3404-Practical" type="462c0819:PsiDirectoryNode" />
+              <item name="Practical 4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CP3404-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP3404-Practical" type="462c0819:PsiDirectoryNode" />
               <item name="Practical 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CP3404-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP3404-Practical" type="462c0819:PsiDirectoryNode" />
+              <item name="Practical 5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CP3404-Practical" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP3404-Practical" type="462c0819:PsiDirectoryNode" />
               <item name="Practical 6" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CP3404-Practical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CP3404-Practical" type="462c0819:PsiDirectoryNode" />
+              <item name="Practical 6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,7 +116,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/tron-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -163,9 +133,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoHorse">
+  <component name="RunManager" selected="Application.CompareLoopTimes3">
     <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AscendingAndDescending" />
+      <module name="Practical 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareLoopTimes3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareLoopTimes3" />
       <module name="Practical 4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -194,6 +171,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareLoopTimes3" />
         <item itemvalue="Application.DemoHorse" />
         <item itemvalue="Application.InputCharacterInfo" />
         <item itemvalue="Application.AscendingAndDescending" />
@@ -214,7 +192,10 @@
       <workItem from="1554888453774" duration="2300000" />
       <workItem from="1555477197744" duration="9914000" />
       <workItem from="1556097012162" duration="42000" />
-      <workItem from="1556097387015" duration="1617000" />
+      <workItem from="1556097387015" duration="1947000" />
+      <workItem from="1556279941841" duration="43000" />
+      <workItem from="1556280042935" duration="323000" />
+      <workItem from="1556523981755" duration="2735000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1554888519392</created>
@@ -251,17 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1555477236239</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="prac 5 edited">
+      <created>1556099126088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556099126088</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13873000" />
+    <option name="totallyTimeSpent" value="17304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,7 +257,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,16 +285,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create" />
     <MESSAGE value="edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited" />
+    <MESSAGE value="prac 5 edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="prac 5 edited" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practical 4/src/EvenOdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 5/src/InputCharacterInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -315,21 +296,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 6/src/DemoHorse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 6/src/RaceHorse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="357">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
           <folding>
             <element signature="e#127#128#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 6/src/Horse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -343,10 +324,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 6/src/Horse.java">
+    <entry file="file://$PROJECT_DIR$/Practical 6/src/DemoHorse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/src/EvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 4/src/CompareLoopTimes3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
