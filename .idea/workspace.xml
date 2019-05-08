@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9591bc9-66f6-4217-a75d-29de8b267bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 7/Practical 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 7/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 7/src/Fiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 7/src/NonFiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical 7/src/UseBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practical 5/src/DistanceFromAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practical 5/src/DistanceFromAverage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,29 +22,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practical 5/src/DistanceFromAverage.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practical 7/src/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 6/src/Candle.java">
+        <entry file="file://$PROJECT_DIR$/Practical 7/src/Fiction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practical 7/src/NonFiction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practical 7/src/UseBook.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practical 6/src/ScentedCandle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -54,6 +82,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Hav Kokfong\IdeaProjects\CP2404Practical\Practical 5\src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +108,10 @@
         <option value="$PROJECT_DIR$/Practical 6/src/Candle.java" />
         <option value="$PROJECT_DIR$/Practical 6/src/ScentedCandle.java" />
         <option value="$PROJECT_DIR$/Practical 5/src/DistanceFromAverage.java" />
+        <option value="$PROJECT_DIR$/Practical 7/src/Book.java" />
+        <option value="$PROJECT_DIR$/Practical 7/src/Fiction.java" />
+        <option value="$PROJECT_DIR$/Practical 7/src/NonFiction.java" />
+        <option value="$PROJECT_DIR$/Practical 7/src/UseBook.java" />
       </list>
     </option>
   </component>
@@ -101,34 +138,12 @@
             <path>
               <item name="CP2404Practical" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP2404Practical" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Practical 7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CP2404Practical" type="b2602c69:ProjectViewProjectNode" />
               <item name="CP2404Practical" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP2404Practical" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP2404Practical" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP2404Practical" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP2404Practical" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP2404Practical" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP2404Practical" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CP2404Practical" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CP2404Practical" type="462c0819:PsiDirectoryNode" />
-              <item name="Practical 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Practical 7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -142,7 +157,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556874200702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557287554461" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/tron-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -160,17 +175,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DistanceFromAverage">
+  <component name="RunManager" selected="Application.UseBook">
     <configuration name="BabyNameComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BabyNameComparison" />
       <module name="Practical 5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompareLoopTimes3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareLoopTimes3" />
-      <module name="Practical 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,13 +204,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseBook" />
+      <module name="Practical 7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseBook" />
         <item itemvalue="Application.DistanceFromAverage" />
         <item itemvalue="Application.TwelveInts" />
         <item itemvalue="Application.BabyNameComparison" />
         <item itemvalue="Application.InputCharacterInfo" />
-        <item itemvalue="Application.CompareLoopTimes3" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +242,9 @@
       <workItem from="1556623297873" duration="606000" />
       <workItem from="1556643717646" duration="629000" />
       <workItem from="1556694741002" duration="9171000" />
-      <workItem from="1556870636800" duration="3291000" />
+      <workItem from="1556870636800" duration="4947000" />
+      <workItem from="1557283710015" duration="88000" />
+      <workItem from="1557283993087" duration="3325000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1554888519392</created>
@@ -306,16 +323,23 @@
       <option name="project" value="LOCAL" />
       <updated>1556698168920</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="prac 5 edited question 4">
+      <created>1556874241818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556874241818</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35541000" />
+    <option name="totallyTimeSpent" value="40610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -324,7 +348,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3268921" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3268921" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,7 +381,8 @@
     <MESSAGE value="prac 5 edited question 1" />
     <MESSAGE value="prac 5 edited question 2" />
     <MESSAGE value="prac 5 edited question 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="prac 5 edited question 3" />
+    <MESSAGE value="prac 5 edited question 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="prac 5 edited question 4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Practical 6/src/RaceHorse.java">
@@ -450,10 +475,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 5/src/DistanceFromAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practical 6/src/Candle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -464,10 +496,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practical 5/src/DistanceFromAverage.java">
+    <entry file="file://$PROJECT_DIR$/Practical 7/src/Fiction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 7/src/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 7/src/NonFiction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical 7/src/UseBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
