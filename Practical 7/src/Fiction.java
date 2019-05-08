@@ -1,6 +1,6 @@
 public class Fiction extends Book {
 
-    public Fiction(String book_title) {
+    Fiction(String book_title) {
         super(book_title);
         setPrice();
     }
